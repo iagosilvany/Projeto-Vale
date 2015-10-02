@@ -1,0 +1,51 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+	background-color: #fff;
+}
+
+.post{
+	padding: 20px;
+	background: #f8f8f8;
+	float: left;
+	width: 100%;
+}
+
+.info li{
+	list-style: none;
+	display: inline-block;
+	font-size: 11px;
+	color: #777777;
+}
+
+.info ul{
+	padding-left: 0px;
+}
+
+p {
+	color: #777777;
+	font-size: 14px;
+	line-height: 22px;
+	font-family: 'Lato', sans-serif;
+}
+
+.conteudo{
+	padding-top: 40px;
+}
+
+h4 a{
+	color: #333;
+}
+
+.topo img{
+  max-width: 100%;
+}
